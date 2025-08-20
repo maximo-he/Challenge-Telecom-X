@@ -38,4 +38,8 @@ Explorar los datos, identificar patrones de evasión y generar recomendaciones e
 - Bibliotecas instaladas (o usarlas en entorno Colab)
 - Datos en formato `.csv` o cargados desde la API proporcionada por el reto
 
-## 👥 Autor
+## :bow: Autor
+
+[<img src="https://github.com/user-attachments/assets/6d896183-be6e-4466-8d13-e4a21cad671b" width=115><br><sub>Máximo Hernández</sub>](https://github.com/maximo-he)
+
+Proyecto desarrollado para el challenge de Ciencia de Datos - Alura Latam - OracleONE G8
